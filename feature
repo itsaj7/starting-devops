@@ -1,5 +1,8 @@
-i//this is new
-   Hello,
-   this is new code from branch1..
+
+//this is new
+  Hello
+  this changes are made by branch2
+  thankyou..
+
 
 
